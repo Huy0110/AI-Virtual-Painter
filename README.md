@@ -1,5 +1,5 @@
 # AI-Virtual-Painter
-This is Project AI, written in Python. Allows users to paint by hand with real-time camera without crayons or paper. Project allows users to draw 3 colors: red, green, blue, plus an eraser function. Users can manually select in space and proceed to paint without touching the computer mouse or the screen.
+This is an AI project, written in Python. Allows users to paint by hand with real-time camera without crayons or paper. Project allows users to draw 3 colors: red, green, blue, plus an eraser function. Users can manually select in space and proceed to paint without touching the computer mouse or the screen.
 
 # Dependencies
 Please install those all the required dependencies
